@@ -1,6 +1,6 @@
 ## Sobre mi 👋
-Soy desarrollador web con una fuerte pasión por la tecnología y la innovación. Me especializo en crear soluciones digitales efectivas, con un enfoque colaborativo que promueve el trabajo en equipo y la comunicación. 
-Me considero responsable, orientado a resultados y siempre en búsqueda de mejorar mis habilidades de desarrollo. Mi enfoque proactivo y mi capacidad de adaptación me permiten enfrentar nuevos desafíos con entusiasmo. 
+Soy desarrollador web con una fuerte pasión por la tecnología y la innovación. Me especializo en crear soluciones digitales efectivas, con un enfoque colaborativo que promueve el trabajo en equipo y la comunicación.<br/><br/>
+Me considero responsable, orientado a resultados y siempre en búsqueda de mejorar mis habilidades de desarrollo. Mi enfoque proactivo y mi capacidad de adaptación me permiten enfrentar nuevos desafíos con entusiasmo.<br/><br/>
 Además, mi motivación no solo se limita al ámbito profesional; los videojuegos son una de mis grandes pasiones, y el ciclismo es una de mis actividades favoritas para mantenerme en equilibrio y siempre en movimiento.
 ## Tecnologías que manejo ⚙️
 **Lenguajes de programación**: <br/> ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=007396) ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
