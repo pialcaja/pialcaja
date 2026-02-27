@@ -5,7 +5,7 @@
   Hola!, soy Pialcaja 👋
 </h1>
 <p>
-  <strong>Constructor de soluciones digitales empresariales efectivas.</strong>
+  <strong>Constructor de soluciones digitales efectivas.</strong>
 </p>
 <hr/>
 <h2>
