@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="assets/banner.png" alt="Pialcaja Banner" width="100%" />
 </p>
 <h1>
