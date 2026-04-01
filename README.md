@@ -12,7 +12,7 @@
   👨‍💻 Sobre mi:
 </h2>
 <p>
-  Soy desarrollador web enfocado principalmente en backend con Java. Me gusta construir aplicaciones bien estructuradas, resolver problemas y aprender constantemente nuevas tecnologías relacionadas al desarrollo.
+  Soy desarrollador web enfocado principalmente en backend con Java. Me gusta construir aplicaciones que resuelvan problemas y aprender constantemente nuevas tecnologías relacionadas al desarrollo.
   <br/><br/>
   Disfruto entender cómo funcionan las cosas detrás de escena: APIs, bases de datos, autenticación y la lógica que hace que todo funcione correctamente. Siempre estoy buscando mejorar mi código, aprender buenas prácticas y experimentar con nuevas ideas.
 </p>
