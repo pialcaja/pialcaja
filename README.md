@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Pialcaja Banner" width="100%" />
 </p>
 <h1>
-  Soy Pialcaja 👋
+  Hola, soy Pialcaja 👋
 </h1>
 <p>
   <strong>Constructor de soluciones digitales.</strong>
